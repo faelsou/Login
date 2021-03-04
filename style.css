@@ -1,0 +1,62 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background: url(../formulario/assets/purple-background-design/img1.jpg) no-repeat top center;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 500px;
+    height: 400px;
+    background-color: rgba (255, 255, 255, 0.3);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 120px;
+    
+
+}
+h3{
+    color: #fff2ff;
+    
+}
+input #placeholder{
+    color:#fff2ff;
+}
+/*form{
+    margin-top: 40px;
+    align-items: center;
+    /*borda
+    padding: 12px 20px 20px 20px;
+    /*espaço da borda
+    background-color: #49464b;
+    /*fundo
+    border-radius: 05px;
+    /*borda arredondada
+    width: 600px;
+    
+}*/
+#email{
+    padding: 8px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    width: 400px;
+    background-color: #dfdedf
+}
+#password{
+    padding: 8px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: none;
+    width: 400px;
+    background-color: #dfdedf
+}
+#button{
+    background-color: #4765b9;
+    border: none;
+}
